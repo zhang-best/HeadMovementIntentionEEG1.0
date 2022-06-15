@@ -1,0 +1,9 @@
+import left_right_2class_wavefuzzy
+import rest_work_2class_wavefuzzy
+import left_right_2class_wavefuzzy_3nodes
+import rest_work_2class_wavefuzzy_3nodes
+left_right_2class_wavefuzzy()
+rest_work_2class_wavefuzzy()
+left_right_2class_wavefuzzy_3nodes()
+rest_work_2class_wavefuzzy_3nodes()
+
